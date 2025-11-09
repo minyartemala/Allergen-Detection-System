@@ -1,7 +1,7 @@
 import base64
 import requests
 import os
-from mistralai import Mistral1
+from mistralai import Mistral
 
 def encode_image(image_path):
     """Encode the image to base64."""
