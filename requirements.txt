@@ -1,0 +1,16 @@
+# Serveur Flask
+flask==2.3.3
+
+# OCR Libraries
+easyocr==1.7.0
+paddleocr==2.7.0.3
+paddlepaddle==2.6.2
+
+# Traitement d'images
+opencv-python==4.8.0.74
+Pillow==10.0.0
+numpy==1.25.2
+
+# Support arabe
+arabic-reshaper==3.0.0
+python-bidi==0.4.2

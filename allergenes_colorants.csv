@@ -1,0 +1,23 @@
+"id","nom_fr","nom_en","nom_ar","type","sous_type_fr","sous_type_en","sous_type_ar","code","proteine"
+"1","gluten","gluten","الغلوتين","Allergène","Blé, Seigle, Orge, Avoine, Épeautre, Kamut","Wheat, Rye, Barley, Oats, Spelt, Kamut","القمح، الجاودار، الشعير، الشوفان، الإينكورن، كاموت",NULL,"Gliadine, Glutenine"
+"2","Crustacés","Crustaceans","القشريات","Allergène","Crevettes, Crabes, Homards, Langoustines, Écrevisses, Squilles","Shrimps, Crabs, Lobsters, Langoustines, Crayfish, Squills","الروبيان، السرطانات، الكركند، لانجوستين، جراد البحر، سكويليس",NULL,"Tropomyosine, Crustacine, Myosine"
+"3","Œufs","Eggs","البيض","Allergène","Blanc d'œuf, Jaune d'œuf","Egg white, Egg yolk","بياض البيض، صفار البيض",NULL,"Ovomucoïde, Ovalbumine, Ovotransferrine, Lysozyme"
+"4","Poissons","Fish","الأسماك","Allergène","Poissons de mer","Sea fish","أسماك البحر",NULL,"Parvalbumine"
+"5","Arachides","Peanuts","الفول السوداني","Allergène","Cacahuètes et produits dérivés","Peanuts and derived products","الفول السوداني ومنتجاته",NULL,"Ara h1, Ara h2, Ara h3"
+"6","Fruits à coque","Tree nuts","المكسرات","Allergène","Amandes, Noisettes, Noix de pécan, Noix de cajou, Noix de macadamia, Pistaches, Noix de Grenoble","Almonds, Hazelnuts, Pecans, Cashews, Macadamia nuts, Pistachios, Walnuts","اللوز، البندق، الجوز البرازيلي، الكاجو، الجوز المكاداميا، الفستق، الجوز",NULL,"Viciline, Conglutine, Albumine"
+"7","Graines de sésame","Sesame seeds","بذور السمسم","Allergène","Sésame blanc, Sésame noir","White sesame, Black sesame","سمسم أبيض، سمسم أسود",NULL,"Albumine, Globuline"
+"8","Lait","Milk","الحليب","Allergène","Lait de vache, Produits dérivés","Cow milk, Dairy products","حليب البقر، منتجات الألبان",NULL,"Caséine, Lactalbumine, Lactoglobuline"
+"9","Moutarde","Mustard","الخردل","Allergène","Moutarde jaune, Moutarde brune","Yellow mustard, Brown mustard","الخردل الأصفر، الخردل البني",NULL,"Sinapine, Albumine de moutarde"
+"10","Céleri","Celery","الكرفس","Allergène","Céleri-rave, Céleri-branche","Celeriac, Celery stalk","كرفس جذري، كرفس ساقي",NULL,"Célerine, Protéines de stockage"
+"11","Légumineuses","Legumes","البقوليات","Allergène","Pois, Lentilles, Fèves ,soja ,sojal","Peas, Lentils, Beans , soy , soybean"," صوجا ، البازلاء ، العدس ، الفول",NULL,"Viciline, Conviciline"
+"12","Anhydride sulfureux et sulfites","Sulphur dioxide and sulphites","ثاني أكسيد الكبريت والكبريتات","Allergène",NULL,NULL,NULL,NULL,NULL
+"13","Lupin","Lupin","الترمس","Allergène","Graines de lupin, Farine de lupin","Lupin seeds, Lupin flour","بذور الترمس، دقيق الترمس",NULL,"Lup an1, Lup an2"
+"14","Mollusques","Mollusks","الرخويات","Allergène","Calmars, Huîtres, Moules, Palourdes, Coquilles","Squids, Oysters, Mussels, Clams, Shells","الحبار، المحار، بلح البحر، البطلينوس، الأصداف",NULL,"Tropomyosine"
+"15","Tartrazine","Tartrazine","تارترازين","Colorant",NULL,NULL,NULL,"E102",NULL
+"16","Jaune de la tartrazine","Quinoline Yellow","أصفر الكينولين","Colorant",NULL,NULL,NULL,"E104",NULL
+"17","Jaune orangé S","Sunset Yellow FCF","أصفر الغروب FCF","Colorant",NULL,NULL,NULL,"E110",NULL
+"18","Azorubine","Azorubine","أزوروبين","Colorant",NULL,NULL,NULL,"E122",NULL
+"19","Amarante","Amaranth","الأمارانث","Colorant",NULL,NULL,NULL,"E123",NULL
+"20","Ponceau 4R","Ponceau 4R","بونسو 4R","Colorant",NULL,NULL,NULL,"E124",NULL
+"21","Rouge Allura AC","Allura Red AC","أحمر ألورا AC","Colorant",NULL,NULL,NULL,"E129",NULL
+"22","Cochenille","Cochineal","قرمزي , كوشنيل","Colorant",NULL,NULL,NULL,"E120",NULL

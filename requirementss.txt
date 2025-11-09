@@ -1,0 +1,7 @@
+Flask
+flask-cors
+pytesseract
+Pillow
+fuzzywuzzy
+python-Levenshtein
+pandas
